@@ -1,0 +1,145 @@
+.container{
+  
+  margin:50px 30px;
+}
+.myimg{
+  position: relative;
+  left:10px;
+}
+.myimg2{
+  position: relative;
+  left:750px;
+  bottom:953.5px;
+}
+.pic2{
+  position: relative;
+  bottom:116px;
+}
+.pic3
+{margin-top: 40px;
+ position: relative;
+ left:750px;
+ bottom:1073px;
+ }
+.myimg2:hover{
+  cursor: pointer;
+  
+}
+.myimg1:hover{
+  cursor: pointer;
+}
+.myimg:hover{
+  cursor: pointer;
+}
+.collection{
+  position: relative;
+  bottom:200px;
+  left:450px;
+  color:white;
+  font-size: 50px;
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+}
+.design{
+  position: relative;
+  bottom:1000px;
+  left:250px;
+  color:white;
+  font-size: 49px;
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+}
+.design2{
+  position: relative;
+  right:630px;
+  bottom:20px;
+  font-size: 49px;
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+}
+
+.itext{
+  position: relative;
+  bottom: 380px;
+  left:40px;
+   font-family: 'Helvetica Neue';
+   font-size: 40px;
+   font-style: italic;
+  }
+.gift{
+  position: relative;
+  bottom:130px;
+  left:450px;
+  height:70px;
+  width:300px;
+  font-family: 'Helvetica Neue';
+  font-size: 25px;
+  background-color: #F9A3CB;
+  border: 1px solid #F9A3CB;
+ color:white;
+ 
+}
+.igift{
+  position: relative;
+  bottom:1070px;
+}
+.about{
+  position: relative;
+  bottom:1130px;
+  text-align: center;
+  height:350px;
+  background-color: #F7F0EE;
+}
+h1{
+  font-family: 'Helvetica Neue';
+  font-size: 40px;
+  position: relative;
+  top:70px;
+}
+.btn{
+  height:50px;
+width:200px;
+  position: relative;
+  top:120px;
+}
+p{
+  position: relative;
+  top:90px;
+  font-style: italic;
+  font-family: 'Helvetica Neue';
+  font-size: 20px;
+}
+.signup{
+  position: relative;
+  bottom: 1130px;;
+  text-align: center;
+  height:400px;
+  background-color: #1F2833;
+}
+h2{
+  font-family: 'Helvetica Neue';
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top:70px;
+}
+.inp{
+  position: relative;
+  top:70px;
+  left:70px;
+  height:40px;
+  width:400px;
+  border-radius: 50px;
+  
+}
+.sbtn{
+  font-family: 'Helvetica Neue';
+  position: relative;
+top:170px;
+right: 220px;
+height:60px;
+width:170px;
+border-radius: 5px;
+}
+
+
